@@ -55,7 +55,8 @@ This project is written in **C** and is optimized for embedded systems, specific
 - `foss_tiva` - Main authentication implementation for Tiva platform
 - `BigNumber.h` - Arbitrary precision arithmetic library for cryptographic calculations
 - `HowToRun.txt` - Quick setup instructions
-- `Report.docx` - Detailed technical documentation and research findings
+- `ZKPReport.pdf` - Detailed technical documentation and research findings
+- `gui.py` - Python GUI detailing the authentication process
 
 ## Documentation
 
