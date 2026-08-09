@@ -59,7 +59,7 @@ This project is written in **C** and is optimized for embedded systems, specific
 
 ## Documentation
 
-For detailed information about the implementation, cryptographic theory, and design decisions, please refer to **Report.docx**.
+For detailed information about the implementation, cryptographic theory, and design decisions, please refer to **ZKPReport.pdf**.
 
 ## License
 
